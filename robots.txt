@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahseejoh.pribitech.com/sitemap.xml
